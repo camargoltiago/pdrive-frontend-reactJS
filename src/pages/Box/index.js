@@ -7,7 +7,7 @@ import pt from 'date-fns/locale/pt';
 import socket from 'socket.io-client';
 
 import './styles.css';
-import logo from '../../assets/logo.svg';
+import logo from '../../assets/logo.png';
 
 export default class Box extends Component {
 

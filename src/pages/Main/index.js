@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import api from '../../services/api';
 
 import  './styles.css';
-import logo from '../../assets/logo.svg';
+import logo from '../../assets/logo.png';
 
 
 export default class Main extends Component {
